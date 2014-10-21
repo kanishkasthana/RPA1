@@ -1,3 +1,4 @@
+# Author Kanishk Asthana October 2014
 pollutantmean <- function(directory,pollutant,id=1:332)
 {
     appendfunction<- function(x)

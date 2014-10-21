@@ -1,3 +1,4 @@
+#Author: Kanishk Asthana October 2014
 complete <- function(directory,id=1:332)
 {
     appendfunction<- function(x)

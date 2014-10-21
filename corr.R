@@ -1,3 +1,4 @@
+#Author: Kanishk Asthana October 2014
 corr <- function(directory,threshold=0)
 {
     appendfunction<- function(x)
